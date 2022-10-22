@@ -2,11 +2,11 @@
 
 São resoluções dos problemas da Beecrowd que resolvo em C. Fique a vontade para aperfeiçoar
 
-# Iniciantes
+## Iniciantes
 
 - [x] 1010
 
-    # Vetores
+    ### Vetores
 
     - [x] 1172
     - [x] 1176
