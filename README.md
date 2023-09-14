@@ -1,6 +1,6 @@
-# PROBLEMAS EM C
+# PROBLEMAS EM C E JAVA
 
-São resoluções dos problemas da Beecrowd que resolvo em C. Fique a vontade para aperfeiçoar
+São resoluções dos problemas da Beecrowd que resolvo em C e em JAVA. Fique a vontade para aperfeiçoar
 
 ## Iniciantes
 
