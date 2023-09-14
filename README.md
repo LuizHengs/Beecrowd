@@ -10,3 +10,11 @@ São resoluções dos problemas da Beecrowd que resolvo em C. Fique a vontade pa
 
     - [x] 1172
     - [x] 1176
+
+## Ad-Hoc
+
+- [x] 1031
+      
+## Estruturas e Bibliotecas
+
+- [x]  
